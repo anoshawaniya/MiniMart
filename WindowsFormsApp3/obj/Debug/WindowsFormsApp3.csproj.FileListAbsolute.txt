@@ -1,0 +1,17 @@
+C:\Users\Anosha Waniya\source\repos\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Anosha Waniya\source\repos\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Anosha Waniya\source\repos\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Anosha Waniya\source\repos\WindowsFormsApp3\bin\Debug\Guna.UI2.dll
+C:\Users\Anosha Waniya\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Users\Anosha Waniya\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.LoginForm.resources
+C:\Users\Anosha Waniya\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Anosha Waniya\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\Anosha Waniya\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\Anosha Waniya\source\repos\WindowsFormsApp3\obj\Debug\WindowsF.90B8DF9B.Up2Date
+C:\Users\Anosha Waniya\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Anosha Waniya\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\Anosha Waniya\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.SpalshForm.resources
+C:\Users\Anosha Waniya\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.CategoryForm.resources
+C:\Users\Anosha Waniya\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.ProductForm.resources
+C:\Users\Anosha Waniya\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.SellerForm.resources
+C:\Users\Anosha Waniya\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.SellingForm.resources
